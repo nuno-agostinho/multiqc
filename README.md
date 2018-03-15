@@ -1,5 +1,5 @@
 # multiqc (Docker)
-Docker to run MultiQC for combining bioinformatic log reports
+Docker to run MultiQC to combine bioinformatic log reports
 
 ## Available software
 - Python 2.7
